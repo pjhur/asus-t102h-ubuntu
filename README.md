@@ -9,14 +9,14 @@ Download from [here](https://sourceforge.net/projects/ubuntu-cinnamon-remix/). I
 
 ### Status Out of Box
 Mostly works with the exception of the webcam. Since this computer was released in October 2016, I would expect the hardware support in Ubuntu 19.10 to be very good. <br>
-Wifi: Works<br>
-Sound: Works<br>
-Bluetooth: Works<br>
-Touchpad: Works<br>
-Graphics: Works (shows tearing)<br>
-Touchscreen: Works<br>       
-Webcam: Not working<br>
-Fn buttons: Partially works
+- Wifi: Works
+- Sound: Works
+- Bluetooth: Works
+- Touchpad: Works
+- Graphics: Works (shows tearing)
+- Touchscreen: Works
+- Webcam: Not working
+- Fn buttons: Partially works
 
 
 
